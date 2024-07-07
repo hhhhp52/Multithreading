@@ -50,3 +50,7 @@
   - `Makefile`: Provides convenient commands for execution.
   - `requirements.txt`: Specifies Python package dependencies and versions.
   - `thread.py`: Main entry point and primary code file.
+
+## Example GIF
+
+![Example GIF](./threading.gif)
